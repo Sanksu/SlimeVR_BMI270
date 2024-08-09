@@ -1,5 +1,5 @@
 ## **SlimeVR_BMI270**
-![SlimeVR_Server.png](//image.lceda.cn/oshwhub/f2e35224d06b4dde9bd27ad48a2b8369.png)
+![SlimeVR_Server.png](https://image.lceda.cn/oshwhub/f2e35224d06b4dde9bd27ad48a2b8369.png)
 
 ### **1. 什么是SlimeVR？**
 SlimeVR是一组开放的硬件传感器和开源软件，有助于在虚拟现实中实现全身跟踪（FBT）。
@@ -8,6 +8,7 @@ SlimeVR是一组开放的硬件传感器和开源软件，有助于在虚拟现�
 
 ### **2. 介绍**
 本项目由 ESP-12F + IP5306-CK + BMI270 组成，CH340K实现自动下载，采用LDO降压，提供3.3V供电
+
 **官网对BMI270的介绍如下**：BMI270 是一款相对较新的实验性 IMU，用于 DIY SlimeVR。 它的性能似乎明显优于 BMI160，同时价格实惠。
 外壳使用Fusion360设计![外壳](./IMG/Assembly.gif)
 
